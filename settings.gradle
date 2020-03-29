@@ -1,0 +1,2 @@
+rootProject.name='RxJava_ObservableCombine'
+include ':app'
